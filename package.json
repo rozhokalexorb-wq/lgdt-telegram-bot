@@ -1,0 +1,12 @@
+
+{
+  "name": "lgdt-telegram-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "grammy": "^1.38.3"
+  }
+}
